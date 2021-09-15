@@ -9,23 +9,23 @@ Lessons 1-10 are available right now. Lessons 11-20 will be uploaded soon. Addit
 
 Table of contents:
 
-Lesson 1 - Getting Started
-Lesson 2 - Intro to Java - Variables
-Lesson 3 - Methods, Classes, and Objects
-Lesson 4 - Methods Deep Dive
-Lesson 5 - If Statements & Cut-Power Mode
-Lesson 6 - OOP Deep Dive Part 1
-Lesson 7 - OOP Deep Dive part 2
-Lesson 8 - Loops
-Lesosn 9 - Integrating a Gyroscope & Driving Straight
-Lesson 10 - Autonomous Commands
-Lesson 11 - Logical Operators
-Lesson 12 - Inheritance & Polymorphism
-Lesson 13 - Arrays
-Lesson 14 - Abstract Classes & Interfaces
-Lesson 15 - Static & Super
-Lesson 16 - Manual Drive Methods
-Lesson 17 - Deadbanding & Turn Scaling
-Lesson 18 - Exponential & Linear Control
-Lesson 19 - Parallel Command Groups
+Lesson 1 - Getting Started  
+Lesson 2 - Intro to Java - Variables  
+Lesson 3 - Methods, Classes, and Objects  
+Lesson 4 - Methods Deep Dive  
+Lesson 5 - If Statements & Cut-Power Mode  
+Lesson 6 - OOP Deep Dive Part 1  
+Lesson 7 - OOP Deep Dive part 2  
+Lesson 8 - Loops  
+Lesosn 9 - Integrating a Gyroscope & Driving Straight  
+Lesson 10 - Autonomous Commands  
+Lesson 11 - Logical Operators  
+Lesson 12 - Inheritance & Polymorphism  
+Lesson 13 - Arrays  
+Lesson 14 - Abstract Classes & Interfaces  
+Lesson 15 - Static & Super  
+Lesson 16 - Manual Drive Methods  
+Lesson 17 - Deadbanding & Turn Scaling  
+Lesson 18 - Exponential & Linear Control  
+Lesson 19 - Parallel Command Groups  
 Lesson 20 - Integrating Commands in Teleop
