@@ -3,9 +3,7 @@ A course for learning how to program FRC robots using the WPILib and a Romi robo
 
 This course can be completed with a few hours a week over the course of a fall pre-season. Students on teams with few or no programming mentors can do this course without any adult help. FRC teams in such a position can use this to develop a few students into programmers and kickstart their programming teams. Teams that already have a number of programming students and/or mentors can use it as a way to train new students or as an introduction to more advanced concepts. Teams that already have software curriculums may find individual lessons, projects, or examples beneficial.
 
-The lessons are contained in the lessons folder. Example source code for completed projects for most of the lessons is contained in the project code folder. The example source code is not needed to complete the lessons but is available to be used as a reference to compare to if necessary.
-
-Lessons 1-10 are available right now. Lessons 11-20 will be uploaded soon. Additional exercises for the lessons will also be uploaded soon. These do not need to be completed but can provide some extra practice for those who want it.
+The lessons are contained in the lessons folder. Example source code for completed projects for most of the lessons is contained in the project code folder. The example source code is not needed to complete the lessons but is available to be used as a reference to compare to if necessary. Lessons 8, 13, and 16-20 do not have example solutions.
 
 Table of contents:
 
